@@ -10,8 +10,10 @@ namespace cs_oop_Assignment1
     {
         static void Main(string[] args)
         {
+            string fullName = "Pilapil, Romwil James D.";
+            
             Console.WriteLine("C# OOP Assignment 1\n");
-            Console.WriteLine("Pilapil, Romwil James D.");
+            Console.WriteLine(fullName);
 
             Console.ReadLine();
         }
