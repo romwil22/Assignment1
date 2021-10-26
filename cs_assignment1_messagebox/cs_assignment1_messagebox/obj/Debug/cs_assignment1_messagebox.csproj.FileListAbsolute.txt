@@ -1,0 +1,9 @@
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_assignment1_messagebox\cs_assignment1_messagebox\bin\Debug\cs_assignment1_messagebox.exe.config
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_assignment1_messagebox\cs_assignment1_messagebox\bin\Debug\cs_assignment1_messagebox.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_assignment1_messagebox\cs_assignment1_messagebox\bin\Debug\cs_assignment1_messagebox.pdb
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_assignment1_messagebox\cs_assignment1_messagebox\obj\Debug\cs_assignment1_messagebox.Form1.resources
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_assignment1_messagebox\cs_assignment1_messagebox\obj\Debug\cs_assignment1_messagebox.Properties.Resources.resources
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_assignment1_messagebox\cs_assignment1_messagebox\obj\Debug\cs_assignment1_messagebox.csproj.GenerateResource.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_assignment1_messagebox\cs_assignment1_messagebox\obj\Debug\cs_assignment1_messagebox.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_assignment1_messagebox\cs_assignment1_messagebox\obj\Debug\cs_assignment1_messagebox.exe
+C:\Users\Rom\Desktop\PROGRAMMING\CSHARP\cs_assignment1_messagebox\cs_assignment1_messagebox\obj\Debug\cs_assignment1_messagebox.pdb
